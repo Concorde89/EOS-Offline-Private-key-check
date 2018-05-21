@@ -1,5 +1,5 @@
 # Offline tool to verify your EOS private key and mapping to public key
-
+Contact me via private message if yo need help on this.
 Simple tool to verify your EOS key and find out the public key. This was requested by several users and something we created while waiting for EOS Dawn 3.0. This tool is brought to you by the [EOS block producer candidate - EOS Authority](https://eosauthority.com). Should take no more than 2 minutes to check your key offline & securely.
 
 ## Using the tool
